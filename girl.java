@@ -1,2 +1,1 @@
-ря╫Б╬Ж
-int a = 10;
+String name = "lisi";
